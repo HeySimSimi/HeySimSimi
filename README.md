@@ -1,4 +1,11 @@
-## Hi there 👋
+<details>
+<summary>Information</summary>
+
+- So we can [when still created by 2002](https://mikekalil.com/blog/smarterchild-conversational-ai/)?
+-  Teach with the [Featuring Used Sentence](https://dictionary.cambridge.org/dictionary/english/featuring) using English!
+- Something else is a [assume I'm boring](https://www.quora.com/Why-do-I-find-everything-boring-and-I-keep-looking-at-the-clock-for-the-time-to-pass-and-for-me-to-sleep)...
+ 
+</details>
 
 <!--
 **HeySimSimi/HeySimSimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

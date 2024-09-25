@@ -1,3 +1,6 @@
+# Say hello 👋
+Get say hello to SimSimi!
+# About me ℹ️
 <details>
 <summary>Information</summary>
 
@@ -7,17 +10,11 @@
  
 </details>
 
-<!--
-**HeySimSimi/HeySimSimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>SWS support</summary>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AICR on supported the AI SimSimi in the released 2019 workshop services.
+- HB10 body is a ten chatting, with me SimSimi.
+- DBSC spamming deep mentally chatting SimSimi in the morning! I'll let you.
+ 
+</details>
